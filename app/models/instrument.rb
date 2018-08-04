@@ -13,6 +13,7 @@
 #  created_at  :datetime         not null
 #  updated_at  :datetime         not null
 #  image       :string
+#  user_id     :integer
 #
 
 class Instrument < ApplicationRecord
